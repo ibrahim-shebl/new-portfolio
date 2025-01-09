@@ -132,6 +132,15 @@ export const myProjects = [
     subTitle: " This project entails an electronic commerce website designed for product sales.It comprises 3 main pages: Home, Shop, and Cart.The Home page displays a comprehensive list of available products.The Shop page allows users to search for specific products and view detailed information about each item.Finally, the Cart page facilitates the purchasing process, where users can add selected items for checkout. This project is developed using React, Redux, and Redux Toolkit, highlighting the use of modern web development technologies"
       
     },
+    {
+      projectTitle: "OnLine Resturant",
+      category: ["react"],
+      imgPath: "./images/c3.png",
+      url: "https://hemaresturant.netlify.app/",
+      source: "",
+      subTitle: "This project is a site for ready-made assignments containing food items You want the order and the quantity you want as well, and everything you order is saved in the shopping cart and account when the orders are delivered to the home, and it uses ReactJs, Redux and ReduxToolkit."
+        
+      },
   {
     projectTitle: "Delivery Food",
     category: ["react"],
