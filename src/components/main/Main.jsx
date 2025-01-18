@@ -126,7 +126,7 @@ const Main = () => {
                   </div>
                   <div className="pro-btn">
                     <a href={item.url} className="btn">view</a>
-                    <a href={item.source} className="btn">source</a>
+                    <a href={item.source} className="btn">Github</a>
                   </div>
                 </div>
               </motion.article>

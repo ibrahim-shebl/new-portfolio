@@ -40,6 +40,30 @@ export const myProjects = [
     subTitle: "This project is a restaurant website that offers a variety of food options. uilt with HTML, CSS, and JavaScript, it utilizes LocalStorage to store data locally. The website is designed to be responsive, ensuring optimal display on all screen sizes."
   },
   {
+    projectTitle: "Fashion Shop",
+    category: ["js"],
+    imgPath: "./images/mens-banner.jpg",
+    url: "https://resturant-6vag.vercel.app/",
+    source: "https://github.com/ibrahim-shebl/Clothing-Store",
+    subTitle: "This site is an online clothing store consisting of 6 pages, with available offers and discounts on every piece. It has a page introducing who we are and a video explaining all our work, as well as how you can contact us and how to reach us through the website. It was developed using HTML, CSS and JavaScript and it displays the available clothes and prices."
+  },
+  {
+    projectTitle: "Resturant",
+    category: ["js"],
+    imgPath: "./images/about-banner.jpg",
+    url: "https://resturant-sigma-ten.vercel.app/",
+    source: "https://github.com/ibrahim-shebl/Resturant",
+    subTitle: "It is a website for a restaurant that displays food and displays the prices of each food, and you can reserve its tables for the number of people you want, and all working hours are available. I used Html, CSS, JS, and I used transition."
+  },
+  {
+    projectTitle: "Busniess Agancy",
+    category: ["js"],
+    imgPath: "./images/blog-2.jpg",
+    url: "https://busniess-agancy.vercel.app/",
+    source: "https://github.com/ibrahim-shebl/Busniess-Agancy",
+    subTitle: "It is a website that explains the way the company works and displays the existing team and the work of each individual in the company, which projects the company is working on, the number of projects that have been completed, which projects we are currently working on, and the number of clients who are cooperating with the company."
+  },
+  {
     projectTitle: "University Website",
     category: ["js"],
     imgPath: "./images/7.jpeg",
@@ -89,24 +113,6 @@ export const myProjects = [
       
   },
   {
-    projectTitle: "Education Platform",
-    category: ["react"],
-    imgPath: "./images/education.png",
-    url: "https://drive.google.com/drive/folders/1VawR8bTMpNNdCXyLDpESWdqXVZQ_pctS",
-    source: "https://github.com/ibrahim-shebl/Education-Platform",
-    subTitle: "Sorry, I cannot share the code because I am not allowed to share it ,This site is an educational platform through which the student can enter his academic stage and be able to follow the exams and lectures that are posted on it, in addition to the admin Dashboard, which allows the teacher to upload a lecture, do quizzes, or track the students’ grades."
-      
-  },
-  {
-    projectTitle: "Smart Templete",
-    category: ["react"],
-    imgPath: "./images/smart.png",
-    url: "https://drive.google.com/drive/folders/1Xb5t4eErZ0sWOguXxOUKiRxzuQC_rG8T",
-    source: "https://github.com/ibrahim-shebl/SmartTemplete",
-    subTitle: "Sorry, I cannot share the code because I am not allowed to share it ,This site is a site for selling certificates of appreciation, and you can specify the font in which you want to write the certificate, and you can choose the templete you want, and you can upload an excel file, and of course every user has a file with his account, and he can change the password and email, and it has the ability to register with Google and Twitter."
-      
-  },
-  {
     projectTitle: "Graduation project",
     category: ["react"],
     imgPath: "./images/feature.jpg",
@@ -121,6 +127,24 @@ export const myProjects = [
     url: "https://heka-online-ecommerce.netlify.app/",
     source: "https://github.com/ibrahim-shebl/online_ecommerce",
     subTitle: "This is an e-commerce website that uses ReactJs & Redux Toolkit and contains many products that the user would like to purchase. It provides the ability to search for products in the search bar and contains a Category to make it easier for the customer to type the product he wants. It contains 6 pages, a shopping page and a favorites page."
+      
+  },
+  {
+    projectTitle: "Education Platform",
+    category: ["react"],
+    imgPath: "./images/education.png",
+    url: "https://drive.google.com/drive/folders/1VawR8bTMpNNdCXyLDpESWdqXVZQ_pctS",
+    source: "",
+    subTitle: "Sorry, I cannot share the code because I am not allowed to share it ,This site is an educational platform through which the student can enter his academic stage and be able to follow the exams and lectures that are posted on it, in addition to the admin Dashboard, which allows the teacher to upload a lecture, do quizzes, or track the students’ grades."
+      
+  },
+  {
+    projectTitle: "Smart Templete",
+    category: ["react"],
+    imgPath: "./images/smart.png",
+    url: "https://drive.google.com/drive/folders/1Xb5t4eErZ0sWOguXxOUKiRxzuQC_rG8T",
+    source: "",
+    subTitle: "Sorry, I cannot share the code because I am not allowed to share it ,This site is a site for selling certificates of appreciation, and you can specify the font in which you want to write the certificate, and you can choose the templete you want, and you can upload an excel file, and of course every user has a file with his account, and he can change the password and email, and it has the ability to register with Google and Twitter."
       
   },
   {
